@@ -49,10 +49,10 @@ PostCSS – processes and optimizes CSS files.
 Screenshots
 
 ##Home Page
-![Home Page](assests/home.png)
+![Home Page](assets/home.png)
 
 ###Checkout page
-![Checkout page](assests/checkout.png)
+![Checkout page](assets/checkout.png)
 
 ###Order placed
 ![Order placed](assets/orderplaced.png)
